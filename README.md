@@ -1,10 +1,9 @@
-PureTexts
+# PureTexts
 ¡Bienvenido a PureTexts! 🚀
-
-Descripción
+# Descripción
 PureTexts es un proyecto web fascinante que busca resaltar la belleza de las texturas en la experiencia online. Con un enfoque único, este proyecto te sumerge en un mundo de diseño web donde las texturas se convierten en el elemento central.
 
-Características Principales
+# Características Principales
 Diseño Excepcional: PureTexts ofrece un diseño excepcional que hace hincapié en la riqueza y la profundidad de las texturas utilizadas en el sitio web.
 
 Interactividad: Explora la interactividad mejorada que proporciona PureTexts, llevando la experiencia del usuario a otro nivel.
